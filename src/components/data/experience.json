@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Business Analyst",
+    "imageSrc": "infosys-logo.png",
+    "startDate": "2022/11",
+    "endDate": "present",
+    "location": "Indore, Pune, India",
+    "experiences": [
+      "Led projects for clients such as Bed Bath & Beyond and BMG Songs.",
+      "Worked with PostgreSQL, Java, Microservices, React.js, and cloud platforms."
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Analyst",
+    "imageSrc": "capgemini-logo.png",
+    "startDate": "2021/04",
+    "endDate": "2022/11",
+    "location": "Hyderabad, India",
+    "experiences": [
+      "Worked on projects like Employee Costing Manager and Real Track.",
+      "Gained experience in PostgreSQL, Java, Microservices, React.js, and cloud deployment."
+    ]
+  }
+]
